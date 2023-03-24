@@ -1,5 +1,5 @@
 {
-    "name": "eslint-config-base",
+    "name": "@blechlawine/eslint-config-base",
     "keywords": [
         "eslint",
         "eslint-config",
