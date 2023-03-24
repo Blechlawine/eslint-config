@@ -1,0 +1,30 @@
+{
+    "name": "eslint-config-base",
+    "keywords": [
+        "eslint",
+        "eslint-config",
+        "eslint-config-base",
+        "config",
+        "styleguide"
+    ],
+    "author": {
+        "name": "Blechlawine",
+        "url": "https://github.com/blechlawine"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/blechlawine/eslint-config"
+    },
+    "license": "MIT",
+    "packageManager": "yarn@3.5.0",
+    "peerDependencies": {
+        "eslint": "^8.36.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.36.0"
+    },
+    "main": "./index.js",
+    "exports": {
+        ".": "./index.js"
+    }
+}
