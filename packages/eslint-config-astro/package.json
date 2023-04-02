@@ -1,12 +1,7 @@
 {
     "name": "@blechlawine/eslint-config-astro",
-    "keywords": [
-        "eslint",
-        "eslint-config",
-        "eslint-config-astro",
-        "config",
-        "styleguide"
-    ],
+    "version": "0.1.0",
+    "keywords": ["eslint", "eslint-config", "eslint-config-astro", "config", "styleguide"],
     "author": {
         "name": "Blechlawine",
         "url": "https://github.com/blechlawine"
